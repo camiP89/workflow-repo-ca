@@ -11,7 +11,7 @@ describe("isActivePath", () => {
     expect(result).toBe(true);
   });
 
-  it("returns true for root path when current path is " / "", () => {
+  it('returns true for root path when current path is "/"', () => {
     const href = "/";
     const currentPath = "/";
 
