@@ -1,5 +1,8 @@
 node_modules/
 
+# ESLint
+.eslintcache
+
 # Playwright
 /test-results/
 /playwright-report/
